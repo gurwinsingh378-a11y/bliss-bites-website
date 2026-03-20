@@ -1,0 +1,39 @@
+body {
+  background: linear-gradient(to right, #fdfbfb, #ebedee);
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}
+
+.card {
+  background: #f0fff4;
+  max-width: 650px;
+  width: 100%;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  color: #2f855a;
+}
+
+.subtitle {
+  text-align: center;
+  color: #777;
+}
+
+h2 {
+  color: #276749;
+  margin-top: 25px;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 8px;
+}
